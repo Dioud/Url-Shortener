@@ -25,11 +25,6 @@ Specifications
 *  Remove a shortened URL and all its statistics 
 
 
-Tech
------------
-
-* [jqPlot] - To create the graph in the stats part
-
 Installation
 --------------
 
@@ -43,6 +38,14 @@ Installation
 * Database password: root
 
 http://localhost:8080/project/
+
+
+
+Thanks
+-----------
+
+* [jqPlot] - To create charts in the stats part easily
+
 
 License
 ----
